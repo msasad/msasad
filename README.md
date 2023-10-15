@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @msasad
-- 👀 I’m interested in ... Backend development with Python, NodeJS. Web Development with ReactJS and Designing Scalable Systems
-- 🌱 I’m currently learning ... Distributed System Design, Architecning around AWS
+- 👋 Hi, I’m Asad Siddiqui
+- 👀 I’m interested in ... Designing and developing scalable services with technologies like Python, AWS, Docker etc.
+- 🌱 I’m currently learning ... Distributed System Design, Architecting around AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
